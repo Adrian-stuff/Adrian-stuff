@@ -3,7 +3,6 @@
 Full stack developer based in the Philippines — I build web apps and custom business systems for clients.
 
 - 🔭 Latest project: [hoacentralph.com](https://hoacentralph.com) — HOA management platform
-- 🏥 Recent client work: Payroll system + Dental Lab Management System for **Nunez Dental Clinic**
 - 🌐 Portfolio: [adriandevera.vercel.app](https://adriandevera.vercel.app)
 - 💬 Ask me about React, Next.js, Firebase, or building systems for businesses
 
@@ -28,22 +27,27 @@ Full stack developer based in the Philippines — I build web apps and custom bu
 
 ---
 
-## 📌 Featured Projects
+## 🏢 Production Projects
+
+Client work and deployed production systems.
 
 | Project | Description | Stack |
 |---|---|---|
-| [ISCP ID Generator](https://github.com/Adrian-stuff/iscp-id-generator) | Web app for generating school IDs with Google OAuth and Firebase | Next.js · TypeScript · Firebase |
-| [HOA Central PH](https://hoacentralph.com) | HOA management platform (private repo) | Next.js · TypeScript |
-| [Portfolio](https://github.com/Adrian-stuff/portfolio) | Personal portfolio built with Next.js and Notion | Next.js · TypeScript · Notion API |
-| [Discord Bot](https://github.com/Adrian-stuff/alagad-ni-sana) | Feature-rich Discord bot | Node.js · JavaScript |
+| [HOA Central PH](https://hoacentralph.com) | HOA management platform — member management, billing, announcements | Next.js · TypeScript · Firebase |
+| Nunez Dental Clinic — Payroll System | Automated payroll processing for dental clinic staff | Next.js · TypeScript · Firebase |
+| Nunez Dental Clinic — Lab Management System | Dental laboratory job tracking and inventory management | Next.js · TypeScript · Firebase |
 
 ---
 
-## 🏢 Client Work
+## 🧪 Side Projects
 
-I build websites and systems for businesses. Recent projects include:
+Personal builds and open-source experiments.
 
-- **Nunez Dental Clinic** — Payroll system + Dental Laboratory Management System
+| Project | Description | Stack |
+|---|---|---|
+| [ISCP ID Generator](https://github.com/Adrian-stuff/iscp-id-generator) | Web app for generating school IDs with Google OAuth and Firebase — [iscpid.vercel.app](https://iscpid.vercel.app) | Next.js · TypeScript · Firebase |
+| [Portfolio](https://github.com/Adrian-stuff/portfolio) | Personal portfolio powered by Notion as a CMS — [adriandevera.vercel.app](https://adriandevera.vercel.app) | Next.js · TypeScript · Notion API |
+| [Alagad ni Sana](https://github.com/Adrian-stuff/alagad-ni-sana) | Feature-rich Discord bot | Node.js · JavaScript |
 
 ---
 
