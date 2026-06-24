@@ -4,7 +4,7 @@ Full stack developer based in the Philippines — I build web apps and custom bu
 
 - 🔭 Latest project: [hoacentralph.com](https://hoacentralph.com) — HOA management platform
 - 🌐 Portfolio: [adriandevera.vercel.app](https://adriandevera.vercel.app)
-- 💬 Ask me about React, Next.js, Firebase, or building systems for businesses
+- 💬 Ask me about React, Next.js, Firebase, Supabase, or building systems for businesses
 
 ---
 
@@ -19,6 +19,7 @@ Full stack developer based in the Philippines — I build web apps and custom bu
 **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -33,9 +34,9 @@ Client work and deployed production systems.
 
 | Project | Description | Stack |
 |---|---|---|
-| [HOA Central PH](https://hoacentralph.com) | HOA management platform — member management, billing, announcements | Next.js · TypeScript · Firebase |
-| Nunez Dental Clinic — Payroll System | Automated payroll processing for dental clinic staff | Next.js · TypeScript · Firebase |
-| Nunez Dental Clinic — Lab Management System | Dental laboratory job tracking and inventory management | Next.js · TypeScript · Firebase |
+| [HOA Central PH](https://hoacentralph.com) | HOA management platform — member management, billing, announcements | Next.js · TypeScript · Supabase |
+| Nunez Dental Clinic — Payroll System | Automated payroll processing for dental clinic staff | Next.js · TypeScript · Supabase |
+| Nunez Dental Clinic — Lab Management System | Dental laboratory job tracking and inventory management | Next.js · TypeScript · Supabase |
 
 ---
 
