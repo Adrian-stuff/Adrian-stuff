@@ -1,10 +1,11 @@
 # Hi, I'm Adrian DeVera 👋
 
-Full stack developer based in the Philippines, building web apps with TypeScript, React, and Node.js.
+Full stack developer based in the Philippines — I build web apps and custom business systems for clients.
 
-- 🔭 Currently working on [ISCP ID Generator](https://iscpid.vercel.app) — a web app that lets students generate their school IDs in-browser
-- 🌐 Portfolio: [portfolio-olive-eta-18.vercel.app](https://portfolio-olive-eta-18.vercel.app)
-- 💬 Ask me about React, Next.js, Firebase, or TypeScript
+- 🔭 Latest project: [hoacentralph.com](https://hoacentralph.com) — HOA management platform
+- 🏥 Recent client work: Payroll system + Dental Lab Management System for **Nunez Dental Clinic**
+- 🌐 Portfolio: [adriandevera.vercel.app](https://adriandevera.vercel.app)
+- 💬 Ask me about React, Next.js, Firebase, or building systems for businesses
 
 ---
 
@@ -32,8 +33,17 @@ Full stack developer based in the Philippines, building web apps with TypeScript
 | Project | Description | Stack |
 |---|---|---|
 | [ISCP ID Generator](https://github.com/Adrian-stuff/iscp-id-generator) | Web app for generating school IDs with Google OAuth and Firebase | Next.js · TypeScript · Firebase |
+| [HOA Central PH](https://hoacentralph.com) | HOA management platform (private repo) | Next.js · TypeScript |
 | [Portfolio](https://github.com/Adrian-stuff/portfolio) | Personal portfolio built with Next.js and Notion | Next.js · TypeScript · Notion API |
-| [Discord Bot](https://github.com/Adrian-stuff/alagad-ni-sana) | Feature-rich Discord bot built in Node.js | Node.js · JavaScript |
+| [Discord Bot](https://github.com/Adrian-stuff/alagad-ni-sana) | Feature-rich Discord bot | Node.js · JavaScript |
+
+---
+
+## 🏢 Client Work
+
+I build websites and systems for businesses. Recent projects include:
+
+- **Nunez Dental Clinic** — Payroll system + Dental Laboratory Management System
 
 ---
 
@@ -44,4 +54,4 @@ Full stack developer based in the Philippines, building web apps with TypeScript
 
 ---
 
-📫 Reach me at **mobhometech@gmail.com**
+📫 **deveraadrian46@gmail.com**
