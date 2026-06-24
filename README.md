@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Adrian DeVera 👋
 
-<!--
-**Adrian-stuff/Adrian-stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer based in the Philippines, building web apps with TypeScript, React, and Node.js.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on [ISCP ID Generator](https://iscpid.vercel.app) — a web app that lets students generate their school IDs in-browser
+- 🌐 Portfolio: [portfolio-olive-eta-18.vercel.app](https://portfolio-olive-eta-18.vercel.app)
+- 💬 Ask me about React, Next.js, Firebase, or TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ISCP ID Generator](https://github.com/Adrian-stuff/iscp-id-generator) | Web app for generating school IDs with Google OAuth and Firebase | Next.js · TypeScript · Firebase |
+| [Portfolio](https://github.com/Adrian-stuff/portfolio) | Personal portfolio built with Next.js and Notion | Next.js · TypeScript · Notion API |
+| [Discord Bot](https://github.com/Adrian-stuff/alagad-ni-sana) | Feature-rich Discord bot built in Node.js | Node.js · JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-stuff&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-stuff&layout=compact&theme=dark&hide_border=true)
+
+---
+
+📫 Reach me at **mobhometech@gmail.com**
